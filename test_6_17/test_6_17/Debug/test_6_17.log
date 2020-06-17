@@ -1,0 +1,13 @@
+﻿生成启动时间为 2020/6/17 10:52:00。
+     1>项目“E:\c-code\test_6_17\test_6_17\test_6_17.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt "源.cpp"
+         源.cpp
+     1>e:\c-code\test_6_17\test_6_17\源.cpp(16): error C4430: 缺少类型说明符 - 假定为 int。注意:  C++ 不支持默认 int
+     1>e:\c-code\test_6_17\test_6_17\源.cpp(24): warning C4508: “logon”: 函数应返回一个值；假定“void”返回类型
+     1>e:\c-code\test_6_17\test_6_17\源.cpp(467): warning C4552: “!=”: 运算符不起任何作用；应输入带副作用的运算符
+     1>已完成生成项目“E:\c-code\test_6_17\test_6_17\test_6_17.vcxproj”(Build 个目标)的操作 - 失败。
+
+生成失败。
+
+已用时间 00:00:00.12
